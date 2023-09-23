@@ -15,7 +15,9 @@ Access Rabbit MQ : http://localhost:15672/ with username/password as guest/guest
 Start the application
 
 API : http://localhost:8080/api/order/mcdonalds
+
 POST
+
 {
 "name":"Burger",
 "price":100,
@@ -23,3 +25,5 @@ POST
 }
 
 Check the log and rabbitmq metrics
+
+![image](https://github.com/srss-pocs/springboot-rabbitmq/assets/145287517/d2753cfa-4e6b-4431-bd19-59c1a3290986)
