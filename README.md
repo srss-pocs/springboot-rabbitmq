@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Spring Boot Rabbit MQ Web Application
 
 Steps
